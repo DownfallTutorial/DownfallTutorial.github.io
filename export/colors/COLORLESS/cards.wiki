@@ -1,0 +1,747 @@
+
+{| class="article-table sortable"
+|+ Cards
+|-
+!Name
+!Picture
+!Rarity
+!Type
+!Energy
+!Description
+|-
+|[[Apparition]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|[[Ethereal]].
+(not Ethereal.)
+Gain 1 [[Intangible]].
+[[Exhaust]].
+|-
+|[[Batch]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Create a Function immediately out of the cards in the Sequence.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[Become Almighty]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Power]]
+|
+|Gain 3 (4) [[Strength]].
+|-
+|[[Beta]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|2 (1)
+|Shuffle an Omega into your draw pile.
+[[Exhaust]].
+|-
+|[[Beta Build]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|Gain 13 (18) [[Block]].
+[[bronze:Insert]] random [[Status]].
+[[bronze:Encode]].
+[[bronze:Compile]] - [[bronze:Insert]] Full Release.
+|-
+|[[Bite]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 7 (8) damage.
+Heal 2 (3) HP.
+|-
+|[[Branch: Attack]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 9 (11) damage.
+[[bronze:Encode]].
+|-
+|[[Branch: Block]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|Gain 8 (10) [[Block]].
+[[bronze:Encode]].
+|-
+|[[Byte Shift]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|([[Retain]].)
+ Return all cards in the Sequence to your hand.
+They gain [[Retain]].
+[[Exhaust]].
+|-
+|[[Council's Justice]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|[[Ethereal]].
+Deal 6 (10) damage.
+Damage is increased by 3 (4) for each Apparition in your [[exhaust]] pile.
+[[Exhaust]].
+|-
+|[[Crystal Shiv]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|Deal 4 (6) damage.
+[[Exhaust]].
+|-
+|[[Crystal Ward]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Gain 3 (5) [[Block]].
+[[Exhaust]].
+|-
+|[[Dazing Pulse]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 5 (7) damage.
+Gain 5 (7) [[Block]]
+[[bronze:Encode]].
+[[bronze:Compile]] Error - [[bronze:Insert]] 2 Dazed.
+|-
+|[[Debug]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Remove all [[bronze:Compile]] Error effects from the cards in the Sequence.
+[[Exhaust]].
+|-
+|[[Decompile]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|([[Retain]].)
+ [[Exhaust]] all cards in the Sequence. Gain [E] and draw a card for each card [[Exhausted]].
+[[Exhaust]].
+|-
+|[[Explode]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|Apply 15 (20) [[hexamod:Soulburn]] to ALL enemies.
+[[bronze:Encode]].
+[[bronze:Compile]] Error - [[bronze:Insert]] 2 Burn.
+|-
+|[[Expunger]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 9 (15) damage X times.
+|-
+|[[Fame and Fortune]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|
+|Gain 25 (30) Gold.
+|-
+|[[Finishing Strike]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|[[Retain]].
+Deal 6 (9) damage.
+[fist_icon] [[champ:Finisher]]
+|-
+|[[Fragment]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 5 (7) damage.
+Gain 5 (7) [[Block]].
+[[bronze:Encode]].
+|-
+|[[Full Release]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1 (0)
+|[[bronze:Encode]].
+[[bronze:Compile]] - Function becomes a Power which activates its effects at the start of each turn.
+|-
+|[[Insight]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|[[Retain]].
+Draw 2 (3) cards.
+[[Exhaust]].
+|-
+|[[J.A.X.]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Lose 3 HP.
+Gain 2 (3) [[Strength]].
+|-
+|[[Knowing Skull]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|[[Ethereal]].
+Spend HP to Wish for Souls, Success, or a Pick Me Up.
+[[Exhaust]].
+|-
+|[[Lick]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Apply 4 (6) [[slimeboundmod:Goop]].
+[[Exhaust]].
+|-
+|[[Live Forever]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Power]]
+|
+|Gain 6 (8) Plated Armor.
+|-
+|[[Minor Beam]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|Deal 3 (4) damage.
+[[bronze:Encode]].
+|-
+|[[Miracle]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|[[Retain]].
+Gain 1 (2) [[Energy]].
+[[Exhaust]].
+|-
+|[[Omega]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Power]]
+|3
+|At the end of your turn, deal 50 (60) damage to ALL enemies.
+|-
+|[[Orb Slam]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|Deal 2 (3) damage 2 times.
+[[Exhaust]].
+|-
+|[[Package: Ancients]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add an Ancient Attack, Ancient Power, and Ancient Construct to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Package: Bronze]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add a Hyper Beam, Orb Beam, and Bronze Armor to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Package: Defect]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add a Reroute, Preprogram, and Time Capacitor to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Package: Orbwalker]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add an Orbwalk, Walker Claw, and Incinerate to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Package: Sentry]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add a Sentry Blast (*Blast+) and two Sentry Waves (*Waves+) to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Package: Shapes]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add a Time Bomb, Spiker Protocol, and Repulsor to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Package: Spheric]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Add a Spheric Shield, Harden, and Floating Orbs to your hand (and [[Upgrade]] them).
+[[Exhaust]].
+|-
+|[[Proto-Beam]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|2
+|Deal 8 damage 2 (3) times.
+[[bronze:Encode]].
+[[bronze:Compile]] - Gain 2 (3) [[Strength]] and lose 1 [[Dexterity]].
+|-
+|[[Proto-Shield]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|2
+|Gain 16 [[Block]].
+[[bronze:Encode]].
+[[bronze:Compile]] - Gain 4 (6) Plated Armor and [[bronze:Insert]] 2 Dazed.
+|-
+|[[Ritual Dagger]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 15 damage.
+If [[Fatal]], permanently increase this card's damage by 3 (5).
+[[Exhaust]].
+|-
+|[[SLIME CRUSH!!!]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|4
+|[[Ethereal]].
+Deal 35 (40) damage (to ALL enemies).
+[[Exhaust]].
+|-
+|[[Safety]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|[[Retain]].
+Gain 12 (16) [[Block]].
+[[Exhaust]].
+|-
+|[[Sentry Wave]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Apply 1 [[Weak]].
+([[guardianmod:Brace]] 2.)
+ Place a Sentry Blast (*Blast+) into [[guardianmod:Stasis]].
+[[Exhaust]].
+|-
+|[[Shadow Guise]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|2
+|[[Ethereal]].
+Gain 14 (18) [[Block]].
+[[expansioncontent:Reclaim]] Nightmare Guise.
+[[Exhaust]].
+|-
+|[[Shadow Strike]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|2
+|[[Ethereal]].
+Deal 16 (20) damage.
+[[expansioncontent:Reclaim]] Nightmare Strike.
+[[Exhaust]].
+|-
+|[[Shiv]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|Deal 4 (6) damage.
+[[Exhaust]].
+|-
+|[[Smite]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|[[Retain]].
+Deal 12 (16) damage.
+[[Exhaust]].
+|-
+|[[Spike]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 3 (4) damage.
+[[bronze:Encode]].
+[[bronze:Compile]] - Gain 3 (4) [[Thorns]].
+|-
+|[[Through Violence]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|[[Retain]].
+Deal 20 (30) damage.
+[[Exhaust]].
+|-
+|[[Ward]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Gain 3 (5) [[Block]].
+[[Exhaust]].
+|-
+|[[Burn]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Status]]
+|
+|
+|-
+|[[Dazed]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Status]]
+|
+|
+|-
+|[[Slimed]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Status]]
+|1
+|
+|-
+|[[Void]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Status]]
+|
+|
+|-
+|[[Wound]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Status]]
+|
+|
+|-
+|[[Bandage Up]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Heal 4 (6) HP.
+[[Exhaust]].
+|-
+|[[Blind]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Apply 2 [[Weak]] (to ALL enemies).
+|-
+|[[Dark Shackles]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Enemy loses 9 (15) [[Strength]] this turn.
+[[Exhaust]].
+|-
+|[[Deep Breath]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Shuffle your discard pile into your draw pile.
+Draw 1 (2) card(s).
+|-
+|[[Discovery]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[Dramatic Entrance]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|0
+|[[Innate]].
+Deal 8 (12) damage to ALL enemies.
+[[Exhaust]].
+|-
+|[[Enlightenment]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Reduce the cost of all cards in your hand to 1 this turn (combat).
+|-
+|[[Finesse]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain 2 (4) [[Block]].
+Draw 1 card.
+|-
+|[[Flash of Steel]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|0
+|Deal 3 (6) damage.
+Draw 1 card.
+|-
+|[[Forethought]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Put a (any number of) card(s) from your hand to the bottom of your draw pile. It costs (They cost) 0 until played.
+|-
+|[[Good Instincts]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain 6 (9) [[Block]].
+|-
+|[[Impatience]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|If you have no Attacks in your hand, draw 2 (3) cards.
+|-
+|[[Jack of All Trades]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Add 1 (2) random Colorless card(s) into your hand.
+[[Exhaust]].
+|-
+|[[Madness]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1 (0)
+|Reduce the cost of a random card in your hand to 0 this combat.
+[[Exhaust]].
+|-
+|[[Mind Blast]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|2 (1)
+|[[Innate]].
+Deal damage equal to the number of cards in your draw pile.
+|-
+|[[Panacea]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain 1 (2) [[Artifact]].
+[[Exhaust]].
+|-
+|[[Panic Button]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain 30 (40) [[Block]]. You cannot gain [[Block]] from cards for 2 turns.
+[[Exhaust]].
+|-
+|[[Purity]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|[[Exhaust]] up to 3 (5) cards in your hand.
+[[Exhaust]].
+|-
+|[[Swift Strike]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|0
+|Deal 7 (10) damage.
+|-
+|[[Trip]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Apply 2 [[Vulnerable]] (to ALL enemies).
+|-
+|[[Apotheosis]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|2 (1)
+|[[Upgrade]] ALL your cards for the rest of combat.
+[[Exhaust]].
+|-
+|[[Chrysalis]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|2
+|Shuffle 3 (5) random Skills into your draw pile. They cost 0 this combat.
+[[Exhaust]].
+|-
+|[[Hand of Greed]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|2
+|Deal 20 (25) damage.
+If [[Fatal]], gain 20 (25) Gold.
+|-
+|[[Magnetism]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2 (1)
+|At the start of your turn, add a random Colorless card into your hand.
+|-
+|[[Master of Strategy]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|Draw 3 (4) cards.
+[[Exhaust]].
+|-
+|[[Mayhem]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2 (1)
+|At the start of your turn, play the top card of your draw pile.
+|-
+|[[Metamorphosis]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|2
+|Shuffle 3 (5) random Attacks into your draw pile. They cost 0 this combat.
+[[Exhaust]].
+|-
+|[[Panache]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|0
+|Every time you play 5 cards in a single turn, deal 10 (14) damage to ALL enemies.
+|-
+|[[Sadistic Nature]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|0
+|Whenever you apply a debuff to an enemy, they take 5 (7) damage.
+|-
+|[[Secret Technique]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|Put a Skill from your draw pile into your hand.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[Secret Weapon]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|Put an Attack from your draw pile into your hand.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[The Bomb]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|2
+|At the end of 3 turns, deal 40 (50) damage to ALL enemies.
+|-
+|[[Thinking Ahead]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|Draw 2 cards.
+Put a card from your hand on top of your draw pile.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[Transmutation]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|X
+|Add X random ([[Upgraded]]) Colorless cards into your hand. They cost 0 this turn.
+[[Exhaust]].
+|-
+|[[Violence]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|Put 3 (4) random Attacks from your draw pile into your hand.
+[[Exhaust]].
+|-
