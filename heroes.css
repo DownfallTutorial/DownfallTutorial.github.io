@@ -9,21 +9,3 @@
 @media (min-width: 992px) {
   .rounded-lg-3 { border-radius: .3rem; }
 }
-
-.image {
-  font-size: 0;
-  text-align: center;
-  width: 1000px;  /* Container's dimensions */
-  height: 600px;
-}
-img {
-  display: inline-block;
-  vertical-align: middle;
-  max-height: 100%;
-  max-width: 100%;
-}
-.trick {
-  display: inline-block;
-  vertical-align: middle;
-  height: 150px;
-}
